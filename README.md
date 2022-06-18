@@ -1,3 +1,4 @@
+**Django Project**
 In this backend API work project, In this application, the New Aggregator is implemented to fetch the data from the two different APIs, the source of the data is Reddit and News API. The application works on both APIs fetching the results from the sources and returning the data in JSON format.
 With some additional featuring in the work, I develop and implemented a function that takes any news to give in any user's favorite news. And also we can get the data from the specific user name and news id.
 
