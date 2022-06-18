@@ -15,34 +15,44 @@ psaw==0.1.0**
 For the API work, we are using the POSTMAN interface to achieve the results as we directed.
 
 Steps to Run the Program:
+
 **STEP 01:** 
+
 	 Clone this repo, and extract the files. 
 git clone ( URL )
+
 **STEP 02:** 
+
 	Inside the folder, activate the Virtual Environment and Install the dependencies.
 Run python3 -m venv <name_of_virtualenv>
 source <name_of_virtualenv>/bin/activate
 	Locate to the folder, where you see the requirement.txt file;
 _****_pip install -r requirement.txt
+
 **STEP 03:**
+
 	Run the Simple Command with manage.py
 python manage.py runserver
 Now, your program is running without any kind of issue or error.
 
 **STEP 04:**
+
 Open the POSTMAN, copy the local host link;
 As shown in the image:
 
 
 **STEP 05:**
+
 For Part1 of the project;
 Hit the request to get the result of a specific news topic like this;
 
 
 **For Part2 of the Project**
+
 When we hit the news, the database will hold the data for only 30 sec, and after this data will be removed.
 
 **For Part3 of the Project**
+
 For the specific news get the favorite news in the list, like;
 
 For checking the specific list of a User's favorite news.
