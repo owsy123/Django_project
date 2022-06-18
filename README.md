@@ -5,6 +5,7 @@ In this backend API work project, In this application, the New Aggregator is imp
 With some additional featuring in the work, I develop and implemented a function that takes any news to give in any user's favorite news. And also we can get the data from the specific user name and news id.
 
 **Prerequisite Tools:
+
 Python == 3.8.5
 Django==4.0.5
 newsapi==0.1.1
