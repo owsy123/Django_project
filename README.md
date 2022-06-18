@@ -38,12 +38,15 @@ Now, your program is running without any kind of issue or error.
 **STEP 04:**
 
 Open the POSTMAN, copy the local host link;
+
+
 As shown in the image:
 
 
 **STEP 05:**
 
 For Part1 of the project;
+
 Hit the request to get the result of a specific news topic like this;
 
 
