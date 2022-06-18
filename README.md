@@ -25,15 +25,20 @@ git clone ( URL )
 **STEP 02:** 
 
 	Inside the folder, activate the Virtual Environment and Install the dependencies.
-Run python3 -m venv <name_of_virtualenv>
-source <name_of_virtualenv>/bin/activate
-	Locate to the folder, where you see the requirement.txt file;
+	
+	
+Run python3 -m venv <name_of_virtualenv> source <name_of_virtualenv>/bin/activate Locate to the folder, where you see the requirement.txt file;
+	
+	
 _****_pip install -r requirement.txt
 
 **STEP 03:**
 
 	Run the Simple Command with manage.py
+	
 python manage.py runserver
+
+
 Now, your program is running without any kind of issue or error.
 
 **STEP 04:**
