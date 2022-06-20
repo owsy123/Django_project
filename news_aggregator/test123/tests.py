@@ -2,7 +2,7 @@ from django.test import TestCase
 from django.urls import reverse,resolve
 from test123.models import Favourite
 from .views import index
-from test123.test import RequestFactory, TestCase
+from django.test import RequestFactory, TestCase
 
 from test123.views import favourite, index
 
